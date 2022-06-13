@@ -12,3 +12,9 @@ sudo systemctl status docker
 
 
 docker login -u login
+password:
+
+
+
+sudo docker push prmr/dockimage:latest
+
